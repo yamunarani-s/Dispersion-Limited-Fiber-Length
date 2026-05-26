@@ -15,7 +15,7 @@ symbol interference (ISI) due to pulse spread.
  
 For standard single-mode fiber driven by a directly-modulated laser diode transmitter, the 
 pulse spread due to chromatic dispersion is given by
-<img width="898" height="694" alt="image" src="https://github.com/user-attachments/assets/5499f4b0-2405-4a5f-b773-ce004a76e850" />
+<img width="698" height="694" alt="image" src="https://github.com/user-attachments/assets/5499f4b0-2405-4a5f-b773-ce004a76e850" />
 <img width="600" height="674" alt="image" src="https://github.com/user-attachments/assets/bbd90891-43d6-4a5d-92d2-73ed3e4e57eb" />
 # Layout: 
 Open up the OptiPerformer file called “Dispersion Limited Fiber.osp”. This layout uses 
