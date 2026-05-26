@@ -16,7 +16,7 @@ symbol interference (ISI) due to pulse spread.
 For standard single-mode fiber driven by a directly-modulated laser diode transmitter, the 
 pulse spread due to chromatic dispersion is given by
 <img width="898" height="694" alt="image" src="https://github.com/user-attachments/assets/5499f4b0-2405-4a5f-b773-ce004a76e850" />
-<img width="1300" height="974" alt="image" src="https://github.com/user-attachments/assets/bbd90891-43d6-4a5d-92d2-73ed3e4e57eb" />
+<img width="600" height="674" alt="image" src="https://github.com/user-attachments/assets/bbd90891-43d6-4a5d-92d2-73ed3e4e57eb" />
 # Layout: 
 Open up the OptiPerformer file called “Dispersion Limited Fiber.osp”. This layout uses 
 the Laser Rate Equations laser diode component with default parameters.  It models a 
@@ -37,6 +37,13 @@ power will read -100 dBm until the first run is made.
 Using the chromatic dispersion factor equation, determine the dispersion of the fiber at 
 1550 nm and set the fiber dispersion parameter accordingly. 
 Using the equations above, determine the dispersion-limited fiber length. 
-<img width="1262" height="1044" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
+<img width="662" height="744" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/36c0ad25-b58c-4d53-9b1d-df38ec75bf46" />
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/c7a57d8a-a77d-4549-8398-d673f7337fb9" />
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/be989170-adfd-43d1-8f94-678777e0ffa9" />
+
 # Tabulation
+<img width="460" height="500" alt="WhatsApp Image 2026-05-26 at 7 56 45 PM" src="https://github.com/user-attachments/assets/4645e1c7-6186-482c-8645-d403224209a0" />
+
 # Result
+The dispersion-limited fiber length for the given optical communication system was found to be approximately 10 km. The simulation results showed acceptable BER performance with a clear eye diagram and minimal intersymbol interference. Hence, the system performance was satisfactory and remained within the allowable dispersion limit.
