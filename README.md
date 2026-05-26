@@ -37,8 +37,8 @@ power will read -100 dBm until the first run is made.
 Using the chromatic dispersion factor equation, determine the dispersion of the fiber at 
 1550 nm and set the fiber dispersion parameter accordingly. 
 Using the equations above, determine the dispersion-limited fiber length. 
-<img width="662" height="744" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
-<img width="1100" height="700" alt="image" src="https://github.com/user-attachments/assets/c7a57d8a-a77d-4549-8398-d673f7337fb9" />
+<img width="602" height="644" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
+<img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/c7a57d8a-a77d-4549-8398-d673f7337fb9" />
 <img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/be989170-adfd-43d1-8f94-678777e0ffa9" />
 
 # Tabulation
